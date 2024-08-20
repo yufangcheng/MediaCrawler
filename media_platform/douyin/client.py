@@ -7,6 +7,8 @@ from typing import Any, Callable, Dict, Optional
 import requests
 from playwright.async_api import BrowserContext
 
+import config
+
 from base.base_crawler import AbstractApiClient
 from tools import utils
 from var import request_keyword_var
@@ -236,6 +238,8 @@ class DOUYINClient(AbstractApiClient):
             comments_has_more = comments_res.get("has_more", 0)
             comments_cursor = comments_res.get("cursor", 0)
             comments = comments_res.get("comments", [])
+            if config.FILTER_COMMENT_KEYWORDS:
+                comments = [c for c in comments if any(keyword in c['text'] for keyword in config.FILTER_COMMENT_KEYWORDS)]
             if not comments:
                 continue
             result.extend(comments)

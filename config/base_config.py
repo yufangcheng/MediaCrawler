@@ -46,7 +46,13 @@ MAX_CONCURRENCY_NUM = 1
 ENABLE_GET_IMAGES = False
 
 # 是否开启爬评论模式, 默认不开启爬评论
-ENABLE_GET_COMMENTS = False
+ENABLE_GET_COMMENTS = True
+
+FILTER_COMMENT_KEYWORDS = [
+    "吗",
+    "多少",
+    "怎么"
+]
 
 # 是否开启爬二级评论模式, 默认不开启爬二级评论
 # 老版本项目使用了 db, 则需参考 schema/tables.sql line 287 增加表字段
