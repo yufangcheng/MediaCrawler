@@ -268,13 +268,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/fruitswordman">
-                    <img src="https://avatars.githubusercontent.com/u/103844614?v=4" width="100;" alt="fruitswordman"/>
-                    <br />
-                    <sub><b>Wenbo Lu</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/ZhouXsh">
                     <img src="https://avatars.githubusercontent.com/u/131248181?v=4" width="100;" alt="ZhouXsh"/>
                     <br />
@@ -302,8 +295,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>zhangzhenpeng</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/tanpenggood">
                     <img src="https://avatars.githubusercontent.com/u/37927946?v=4" width="100;" alt="tanpenggood"/>
@@ -311,6 +302,8 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>Sam Tan</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/xbsheng">
                     <img src="https://avatars.githubusercontent.com/u/56357338?v=4" width="100;" alt="xbsheng"/>
@@ -340,14 +333,28 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/yufangcheng">
+                    <img src="https://avatars.githubusercontent.com/u/17634791?v=4" width="100;" alt="yufangcheng"/>
+                    <br />
+                    <sub><b>俞方成</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/fruitswordman">
+                    <img src="https://avatars.githubusercontent.com/u/103844614?v=4" width="100;" alt="fruitswordman"/>
+                    <br />
+                    <sub><b>Wenbo Lu</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/Tianci-King">
                     <img src="https://avatars.githubusercontent.com/u/109196852?v=4" width="100;" alt="Tianci-King"/>
                     <br />
                     <sub><b>Wang Tianci</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Styunlen">
                     <img src="https://avatars.githubusercontent.com/u/30810222?v=4" width="100;" alt="Styunlen"/>
@@ -383,6 +390,8 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>KEXNA</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/aa65535">
                     <img src="https://avatars.githubusercontent.com/u/5417786?v=4" width="100;" alt="aa65535"/>
@@ -390,8 +399,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>Jian Chang</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/522109452">
                     <img src="https://avatars.githubusercontent.com/u/16929874?v=4" width="100;" alt="522109452"/>
